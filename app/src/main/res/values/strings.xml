@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DPMO_U3_A3_VERM</string>
+    <string name="btnTerminar">Salir</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="txtDatos">
+        Verónica Ruíz Manzo\n
+        DS-DPMO-2202-B2-004
+    </string>
+    <string name="txtIngresar">Ingrese los valores:</string>
+    <string name="hintRadioMayor">Radio mayor</string>
+    <string name="hintRadioMenor">Radio menor</string>
+    <string name="hintAltura">Altura</string>
+    <string name="txtResultado">Resultado: </string>
+    <string name="txtValores">Valores ingresados:</string>
+    <string name="txtCm"> cm </string>
+    <string name="txtCm3"> cm³ </string>
+    <string name="txtFormula">Fórmula</string>
+    <string name="txtVol1">V = 1/3 * 3.1416 * </string>
+    <string name="txtVol2"> * ( </string>
+    <string name="txtVol34"> ² + </string>
+    <string name="txtVol5"> * </string>
+    <string name="txtVol6">)</string>
+</resources>
